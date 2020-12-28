@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\1\source\repos\patcher\patcher\source.cpp(16): error C2440: <function-style-cast>: невозможно преобразовать "initializer list" в "Writer"
+  c:\users\1\source\repos\patcher\patcher\source.cpp(16): note: Ни один конструктор не смог принять исходный тип, либо разрешение перегрузки конструктора неоднозначно
+c:\users\1\source\repos\patcher\patcher\source.cpp(16): error C2512: Writer: нет подходящего конструктора по умолчанию
+  c:\users\1\source\repos\patcher\patcher\writer.h(19): note:  см. объявление "Writer"
