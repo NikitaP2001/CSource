@@ -1,0 +1,31 @@
+insert-m 1 BookName1 2002 Science 978316148
+insert-m 2 BookName2 2001 Romance 902920348
+insert-m 3 BookName3 2010 Humor	209348003
+insert-m 4 BookName4 2015 Classic 128780391
+insert-m 5 BookName5 2016 Travel 019290148
+
+insert-s 10 1 Office1 2010
+insert-s 11 1 Office2 2015
+insert-s 12 2 Office3 2017
+insert-s 13 2 Office4 2018
+insert-s 14 3 Office9 2015
+insert-s 15 3 Office10 2020
+insert-s 16 3 Office11 2019
+ut-m
+ut-s
+del-m 1
+del-s 13
+ut-m
+ut-s
+insert-m 6 BookName100 2003 Science 21342616
+insert-s 13 6 Office99 2004
+ut-m
+ut-s
+update-m 6 Name BookName50
+update-s 13 YearPublished 2005
+ut-m
+ut-s
+
+
+
+

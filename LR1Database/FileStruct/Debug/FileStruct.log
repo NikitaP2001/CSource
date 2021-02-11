@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(121,9): warning C4101: 'res': unreferenced local variable
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(237,8): warning C4101: 'res': unreferenced local variable
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(252,8): warning C4101: 'res': unreferenced local variable
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(338,9): warning C4101: 'res': unreferenced local variable
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(442,8): warning C4101: 'res': unreferenced local variable
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(35): warning C4172: returning address of local variable or temporary: res
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(249): warning C4715: 'Slave::GetBid': not all control paths return a value
+C:\Users\Nikita\Documents\CProj\FileStruct\FileStruct\Source.cpp(45): warning C4172: returning address of local variable or temporary: res
+  FileStruct.vcxproj -> C:\Users\Nikita\Documents\CProj\FileStruct\Debug\FileStruct.exe
